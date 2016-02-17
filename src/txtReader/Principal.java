@@ -14,7 +14,7 @@ public class Principal
 
 	public static void main(String[] args) throws IOException 
 	{
-		TXTReader tr = new TXTReader();
+		CC52258342 tr = new CC52258342();
 		tr.readLines();
 	}
 }

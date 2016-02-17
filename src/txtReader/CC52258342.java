@@ -8,12 +8,12 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class TXTReader {
+public class CC52258342 {
 	
 	Path path;
 	
-	public TXTReader() {
-	this.path = Paths.get("C:/Users/Kelvy/Desktop/Documentos/textFile.txt");
+	public CC52258342() {
+	this.path = Paths.get("/home/alexandre/Desktop/arquivo");
 	}
 	
 	/**
