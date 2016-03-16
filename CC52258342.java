@@ -54,6 +54,12 @@ public class CC52258342 {
 	}
 
 }
+ 	
+ 	/**
+ 	 * 
+ 	 * Interface Potenciador que será implementada futuramente por MicroondasPotente
+ 	 * @author Kelvy
+ 	 */
  	interface Potenciador {
  		
  		int superDescongelante(String value);
